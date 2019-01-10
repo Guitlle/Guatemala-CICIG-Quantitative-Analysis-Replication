@@ -1,2 +1,2 @@
 # Guatemala-CICIG-Quantitative-Analysis-Replication
- Replication of quantitative analysis for "Saving Guatemala’s Fight Against Crime and Impunity"
+ Replication of quantitative analysis of ["Saving Guatemala’s Fight Against Crime and Impunity"](https://www.crisisgroup.org/latin-america-caribbean/central-america/guatemala/70-saving-guatemalas-fight-against-crime-and-impunity). That analysis was made with Stata. I have succesfully run it on Stata 13, but I am attempting to port the analysis to Python/R so it is reproducible by people without Stata and specially to learn :). The analysis uses synthetic controls to estimate a counterfactual from latinamerican countries. 
